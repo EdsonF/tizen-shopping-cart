@@ -1,0 +1,19 @@
+{
+  "name": "tizen-shopping-cart",
+  "version": "0.0.1",
+  "description": "Simple Tizen mobile shopping cart application targeting Samsung Gear S",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwaber/tizen-shopping-cart.git"
+  },
+  "author": "Vaan Waber <vwaber@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vwaber/tizen-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/vwaber/tizen-shopping-cart#readme"
+}
