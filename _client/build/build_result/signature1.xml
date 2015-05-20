@@ -4,15 +4,15 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>hgHILV6/6HYGgPC0uoVmtEs/5/bBuC9P9G+aoNMfI0Q=</DigestValue>
+<DigestValue>SyvUP6Bsm0WCu+UDMumpTeGP5bzRy94mol9D2Wue7lA=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>EBvyHr406vkeUBcRfFD6bvY4CFId9mDRGQRhH4WnJa0=</DigestValue>
+<DigestValue>uExoYVi84+Pq/dNYXo2LPvxJ/ZZACqcJbGu+cmuVQbY=</DigestValue>
 </Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>0/mhZV4kwFnSzCSp45AhFjWaQnaie61uW8VeXioOLQg=</DigestValue>
+<DigestValue>q9F5YqtzI/o3PlFpX1sXQYUuZu9zSQyMPS8VTtHKrl4=</DigestValue>
 </Reference>
 <Reference URI="icon.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -20,19 +20,19 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>sJVkuoowrYOy9D32HHjzsRr8Iz+EK6oP0Q3DjS/1NV4=</DigestValue>
+<DigestValue>ZUYo99q5NP8BKKRh0trsy1v52Kwn38Ue9Y1DPk+y4aU=</DigestValue>
 </Reference>
 <Reference URI="js%2Fjquery-1.9.1.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>e9gNBsAcA0DBuRWbm0oZfbiCyhjLrI6bmqAl5o+ZjUA=</DigestValue>
+<DigestValue>62xj2ofAy+JaHuSfnVAaoLNi1Kpac0FpJTk+WlDCewU=</DigestValue>
 </Reference>
 <Reference URI="js%2Fmain.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>NpvfAbdNDlWonxZpDIHTLqtL6DYsbTOwDEOF1CRPmRk=</DigestValue>
+<DigestValue>CQiDj+c8IFL6KR+hy4jvJGmbx5ALD2PLEi0fwM+HGFw=</DigestValue>
 </Reference>
 <Reference URI="version.txt">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>Ro4RnQh+FiI47olM6psy7nYIEYDO7i0G5yik+T8G0CM=</DigestValue>
+<DigestValue>Iz+BlaUxK3GS6XzeU8DU5MtMPsKeu7p0fvLW2Lvvo6g=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -43,9 +43,9 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-Y9wGIwM/tMoJahn7S+O9LAvJyPxndmwL8KdLRkKl4qDP4FQrJjtGY5JdNkpDozTCIoGJL3LaaJBH
-+2gQSBYIHS0EFyZpctmSy67fVoueKs1zsEZdwXCIq/hi2GTW0RWjHxqUpAjZ09oZUSpZPOcB+GOM
-Mi35JE3kCbYaZIVsdQ8=
+UeD8DqDmWLEylwPtpV0zST0rAWMrvui+ghGwdh4oyhJgSM3BTrFkn5jqmb3xAL7/Lv5FOTbOPMT7
+gMjHzw8Fje1MLWyQvYLrAx8U0L69NbGKET1cNdoGtIYZBoJSbIfNbgYE9Jz/Gb3KxVQUtOu/+uXq
+/P7EUCw3A8TlhccmKAI=
 </SignatureValue>
 <KeyInfo>
 <X509Data>
