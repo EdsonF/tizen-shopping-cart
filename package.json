@@ -18,6 +18,8 @@
   "homepage": "https://github.com/vwaber/tizen-shopping-cart#readme",
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-shell": "^0.4.1"
+    "gulp-util": "^3.0.4",
+    "rimraf": "^2.3.4",
+    "run-sequence": "^1.1.0"
   }
 }
